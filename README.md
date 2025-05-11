@@ -3,7 +3,6 @@
 > 📚 **Biblioteca prática em C para manipulação de strings e leitura de arquivos/entradas em UTF-8 no Windows**.
 
 <div align="center"> 
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License: MIT">
   <img src="https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform: Windows">
   <img src="https://img.shields.io/badge/status-Em%20Desenvolvimento-orange?style=for-the-badge" alt="Status: Em Desenvolvimento">
   <img src="https://img.shields.io/badge/UTF--8-Compatible-brightgreen?style=for-the-badge" alt="UTF-8 Support">
