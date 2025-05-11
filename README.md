@@ -8,9 +8,11 @@
   <img src="https://img.shields.io/badge/UTF--8-Compatible-brightgreen?style=for-the-badge" alt="UTF-8 Support">
 </div>
 
-![Header](https://user-images.githubusercontent.com/yourusername/banner-projeto.png)
+<div align="center"> 
+   <img src="/img/image.png" alt="Imagem Projeto">
+</div>
 
-## ✨ Recursos
+### ✨ Recursos
 
 ✅ Leitura segura de arquivos `.txt` com suporte UTF-8  
 ✅ Leitura de entrada do console com acentos e caracteres especiais (ex: João, ç, á)  
